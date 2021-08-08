@@ -1,0 +1,43 @@
+body{
+    background-color: #DAD5AB;
+}
+
+#navbar{
+    background-color: #F0F0CB;
+    padding: 1rem;
+}
+.navbar-nav{
+    font-family: "Montserrat-thin";
+    font-size: 1.5rem;
+    position: absolute;
+    right: 0;
+}
+.navbar-brand {
+    color:#368B85 !important;
+    font-family: "Ubuntu";
+    font-size: 2rem;
+}
+.nav-link{
+    color:#368B85 !important;
+    margin:1.2rem;
+}
+.donate{
+    color:#9EDE73;
+    font-family: "Ubuntu";
+    font-size: 2.3rem;
+    margin: 1rem;
+}
+h1{
+    color:#04009A;
+}
+.fav{
+    margin:1rem;
+}
+img {
+    height: 65vh;
+}
+/* donate btn */
+#caption{
+    text-align: center;
+    padding-top: 2rem;
+}
